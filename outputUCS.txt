@@ -1,0 +1,29 @@
+C 3
+G 2
+K 3
+K 2
+K 3
+K 17
+G 7
+G 19
+G1 9
+O 14
+G 11
+None
+G 7
+None
+D 13
+USA 17
+Q 23
+None
+Q 23
+BA 6
+GB 3
+None
+A 21
+BA 6
+BA 10
+G 2
+O 14
+C 10
+G 4

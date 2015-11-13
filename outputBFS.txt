@@ -1,0 +1,17 @@
+D 2
+G 5
+D 5
+USA 2
+Q 8
+I 6
+Q 8
+BA 1
+GB 3
+None
+A 3
+BA 1
+BA 1
+G 2
+O 4
+O 4
+D 1
