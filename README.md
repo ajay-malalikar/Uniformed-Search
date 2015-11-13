@@ -1,2 +1,2 @@
 # Uniformed-Search
-Implementation of BFS, DFS and UCS for a particular problem definition.  
+Implementation of BFS, DFS and UCS for a particular problem definition for water management of a city. Project finds the shortest and the least cost path for water to traverse from one part of the city to another. One strange fact about this city is that some of the pipes which are old do not function in specific times. So the route would be different at different times. But if water is already flowing in a pipe, it will continue flowing even if time reaches one of those periods. You just have to make sure that when you want to select the next pipe for the rest of your water route, it is in its working time. 
